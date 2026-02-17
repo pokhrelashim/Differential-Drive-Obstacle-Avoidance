@@ -33,12 +33,6 @@ The objective is to demonstrate foundational autonomous navigation behavior in m
 
 ---
 
-## Simulation Preview
-
-### Circuit Design
-![Circuit Diagram](simulation/tinkercad_circuit.png)
----
-
 ## Future Improvements
 - PWM-based speed control
 - PID motion stabilization
